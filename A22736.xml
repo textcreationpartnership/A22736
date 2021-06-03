@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commission vvith instructions and directions, granted by his Maiestye to the Master and Counsaile of the Court of Wards and Liueries for compounding for wards, ideots, and lunaticks, and giuen vnder his highnesse great seale of England the 21. of August. 1622.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22736</idno><idno type="EEBO-CITATION">99855408</idno>
+  <idno type="VID">20901</idno>
+  <idno type="EEBO-PROQUEST">2240937290</idno>
+  <idno type="STC">STC 9242</idno>
+  <idno type="STC">ESTC S120209</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855408e"/>
+            <note>(EEBO-TCP ; phase 2, no. A22736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1235:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commission vvith instructions and directions, granted by his Maiestye to the Master and Counsaile of the Court of Wards and Liueries for compounding for wards, ideots, and lunaticks, and giuen vnder his highnesse great seale of England the 21. of August. 1622.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>England and Wales. Court of Wards and Liveries.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XXII. [1622]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A further revision of the commission issued 11 Dec. 1618, which is a  considerably revised version of the commission issued 23 Feb. 1618--Cf. STC.</note>
+                  <note>Reproduction of the original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Court of Wards and Liveries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20901:1"/>
+            <pb facs="tcp:20901:1"/>
+            <p> A COMMISSION WITH INSTRVCTI<g ref="char:EOLhyphen"/>ONS AND DIRECTIONS, granted by his Maiesty to the Master and Counsaile of the Court of Wards and Liueries</p>
+            <p>
+               <hi>For compounding for Wards, Ideots,</hi> and Lunaticks.</p>
+            <p>
+               <hi>And giuen vnder His Highnesse great Seale of England the</hi> 21. <hi>of August.</hi> 1622.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by BONHAM NORTON and IOHN BILL, Printers to the Kings most Excellent Maiesty. <hi>M. DC. XXII.</hi>
+            </p>
+         </div>
+         <div type="seal">
+            <pb facs="tcp:20901:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="commission">
+            <pb n="1" facs="tcp:20901:2"/>
+            <head>By the King.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES <hi>by the grace of</hi> GOD <hi>King of England, Scotland, France and Ire<g ref="char:EOLhyphen"/>land, Defender of the Faith, &amp;c.</hi>
+               </signed>
+               <salute> To Our right trusty, and right welbeloued Counsellour, LIONEL Lord Cranfield, Our high Treasurer of England, Master of Our Court of Wardes and Liueries, And to Our trustie and welbeloued the Councell of the same Court, And to the Master and Councell of the sayd Court, for the time being, Greeting.</salute>
+            </opener>
+            <p>WHEREAS Wee haue heereto fore published seuerall Commissions with In<g ref="char:EOLhyphen"/>structions and Directions to you Our
+<pb n="2" facs="tcp:20901:3"/> Master and Councell of Our Court of Wardes and liueries, for compounding for Wardes, Ideots, and Lunatiques; Now that time and experience haue produced the knowledge of sundry defects, that o<g ref="char:EOLhyphen"/>therwise could not easily haue beene fore<g ref="char:EOLhyphen"/>seene, which are to be supplied by altera<g ref="char:EOLhyphen"/>tion of some points of the same Our In<g ref="char:EOLhyphen"/>structions, according to Our gracious purpose for the good of Our louing Sub<g ref="char:EOLhyphen"/>iects, and Our especiall care for the true answering of Our Reuenewes: And for<g ref="char:EOLhyphen"/>asmuch as it doeth appeare by common experience in the course which hath been held since the first erection of Our Court of Wards and Liueries, That, partly by the slackenesse of the Friends of the Wardes, vpon the decease of the Parents or Ance<g ref="char:EOLhyphen"/>stours, who haue forborne to offer timely composition, sometimes with opinion, That no Title could be found for Vs, and sometimes with purpose to suppresse the same, and partly by the suit of other men, the Custody of the bodies and lands of Our Wards, haue beene committed to
+<pb n="3" facs="tcp:20901:3"/> such persons, some for one respect, some for another, as (notwithstanding the care and prouidence of you the Master and Councell of Our Court, to binde them in great Bonds and Couenants for the well educating of the Children, and preserua<g ref="char:EOLhyphen"/>tion of their Inheritance) haue been care<g ref="char:EOLhyphen"/>lesse of their education, married some in meane places, committed wasts &amp; spoiles vpon their Lands, and in the end haue ex<g ref="char:EOLhyphen"/>acted greater summes of money for the mariages of such Wards, then they ought to haue done in reason and equity; not<g ref="char:EOLhyphen"/>withstanding any their disbursements whatsoeuer, for passing or procuring the same.</p>
+            <p>And wheras also We haue been infor<g ref="char:EOLhyphen"/>med by you the Master of the said Court, that by reason of the great difficulties that haue been found by the Court, vpon sight of Offices, and Surueys only, to set downe Compositions for Wardships and Leases of Wards Lands, with such equalitie and moderation betweene Vs, and Our Sub<g ref="char:EOLhyphen"/>iects, as were iust and reasonable; and
+<pb n="4" facs="tcp:20901:4"/> that through want of due information in that behalfe, much of the profit that might haue been raysed for Vs, hath been diuer<g ref="char:EOLhyphen"/>ted to diuers Sutors and Committees, who by obscuring the trueth of the Wards e<g ref="char:EOLhyphen"/>state, and by misinforming of the Court therein, haue reaped greater profit, then was intended, if you could by ordinary meanes haue come by the knowledge of their values; so as, both We haue receiued lesse then otherwise We should haue done, and the Wardes found little ease in many cases.</p>
+            <p>VVherfore, for the preuenting of these and the like inconueniences, and to the end that Our louing Subiects may stand assured, that Wee desire nothing more, then that their Children and their Lands, that shall fall vnto Vs by reason of Ward<g ref="char:EOLhyphen"/>ships, might after their decease, bee com<g ref="char:EOLhyphen"/>mitted to their neerest and trustiest friends, or to such as they, by Wil, or other<g ref="char:EOLhyphen"/>wise, commit the charge vnto, vpon such valuable considerations, as are iust and reasonable: And to the intent that the Pa<g ref="char:EOLhyphen"/>rents
+<pb n="5" facs="tcp:20901:4"/> and Ancestours may depart in grea<g ref="char:EOLhyphen"/>ter peace, in hope of this Our gracious fauour; and their friendes may see their Children brought vp in Piety and lear<g ref="char:EOLhyphen"/>ning, and may take such care as is fit, for the preseruation of their inheritance, if they will seeke the same in time, and by such meanes as are fit and conuenient; and that We may be truly answered, from time to time, all such profit as shalbe made thereof; We haue thought good hereby to require you, the Master and Councell of the said Court for the time being, that in disposing and committing of the custo<g ref="char:EOLhyphen"/>dy of the Bodies and Lands of such Our Wards, whose Ancestours are already de<g ref="char:EOLhyphen"/>ceased, or shall die, from, and after the date of these presents, and of such Ideots and Lunatiques, and their estates, as shall fall vnto Vs from henceforth, &amp; the reuenew thereof, that shall appertaine to Vs, you shall strictly and carefully obserue these Our Directions following.</p>
+            <pb n="6" facs="tcp:20901:5"/>
+            <p> FIRST, that no direction for the fin<g ref="char:EOLhyphen"/>ding of any Office, bee giuen for Wardship of the Body and Lands of any Ward, vntill the end of one moneth next after the death of the Ancestor of the Ward, but to the neerest and trustiest friends of the Ward, or other persons no<g ref="char:EOLhyphen"/>minated by the Ancestor in the Wards be<g ref="char:EOLhyphen"/>halfe, who may in the meane time become Suitors for the same, among whō, choice may be made of the best and fittest: and if none of the Wards friends make petition by the end of the moneth, then it shall be lawfull for any other to petition, and to finde the Office for the Wardship.</p>
+            <p n="2">2 ALSO, that no composition, agree<g ref="char:EOLhyphen"/>mēt, or promise of any Wardship, or Lease of Lands bee made, vntill the Office bee found, and then such of the Friendes to haue preferment, as tendered their Petiti<g ref="char:EOLhyphen"/>ons withiin the moneth, they yeelding a reasonable Composition; and in default of them, such others as were or shalbe suitors yeelding also a reasonable Composition.</p>
+            <p n="3">3 ALSO, You shall do your best in<g ref="char:EOLhyphen"/>deuours
+<pb n="7" facs="tcp:20901:5"/> to informe your selues as parti<g ref="char:EOLhyphen"/>cularly as you may, by Commission, Sur<g ref="char:EOLhyphen"/>uey or otherwise, of the truth of the Wards estates, aswell of his Inheritance, as of his Goods and Chattels, and of the estate of the deceased Ancestors, &amp; of all other due circumstances considerable, to the ende the Compositions may bee such as may stand both with our reasonable profit; and with the ability of the heires estate.</p>
+            <p n="4">4 THAT all Petitions for Wardships, I<g ref="char:EOLhyphen"/>deots and Lunatiques, shalbe first deliue<g ref="char:EOLhyphen"/>red to the Master of the Court of Wards and Liueries, that the Master (if he shall thinke fit) may foorthwith giue directi<g ref="char:EOLhyphen"/>on vpon the same Petition, for finding the Office and returning thereof: And the Masters Secretary shall make entry there<g ref="char:EOLhyphen"/>of, and of the very day the same is deliue<g ref="char:EOLhyphen"/>red, and returne the same Petition backe to the Suitor, who shall enter the same with the Clerke of the Court, who is to enter it without fee, and the party to take <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o benefit by the said direction, vntill hee <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath entred the said Petition with the
+<pb n="8" facs="tcp:20901:6"/> Clerke: and the Clerke of the Court is to acquaint all the rest of the Counsaile ther<g ref="char:EOLhyphen"/>with at their next sittings: and the Suitor to attend, at the time prefixed by the Ma<g ref="char:EOLhyphen"/>ster openly, at the Counsell table of the Court of Wards and Liueries, there to compound with the Master and Counsell of the sayd Court for the Wardship of the body and Lands, or otherwise to be orde<g ref="char:EOLhyphen"/>red there, as shall bee thought fit by the said Master and Counsell, and as the Sta<g ref="char:EOLhyphen"/>tute ordeineth.</p>
+            <p n="5">5 THAT euery such Petition do ex<g ref="char:EOLhyphen"/>presse the seuerall Counties, wherein the Ancestors died seized of Lands.</p>
+            <p n="6">6 THAT all Petitioners who haue warrant to find an Office, &amp; appointed to attend at a certaine day, if after they find no Office, nor doe not attend before the Officers for their Composition, at such time as was appointed, then they shall lose the benefit of their Petition, and their bond shalbe put in Processe, and it shalbe in the power of the Master and Coun<g ref="char:EOLhyphen"/>sell of the same Court to grant the
+<pb n="9" facs="tcp:20901:6"/> same to anie other that shall Petition for the same the same; grant to be subiect to the order of the said Court.</p>
+            <p n="7">7 THAT euery Feodary doe appoint some certaine person and place in <hi>London,</hi> whither the Court may send directions to be conueyed to the Feodaries continually for Our seruice.</p>
+            <p n="8">8 THAT the Feodaries shall repaire to the Clerke of the said Court, or to the Ma<g ref="char:EOLhyphen"/>sters Secretary, at the end of euery Terme, and take notice and direction out of the said Petitions, entred with the said Clerke and Masters Secretary, in what Counties Our Tenants died seized of any Lands, &amp; of the Lāds of Ideots, &amp; that the Feodaries accordingly send vp their Certificate of the best improued value of all the said Lands, lying in their said seueral Counties, by the first sitting of the Officers, the next Terme following, for which no fee shall be paid.</p>
+            <p n="9">9 THAT the Feoday do make his Cer<g ref="char:EOLhyphen"/>tificate by view, or other speciall informa<g ref="char:EOLhyphen"/>tion, of the best improoued value, with his reasons thereof priuately, without giuing
+<pb n="10" facs="tcp:20901:7"/> knowledge to the Suitor, or any for him of any value intended by him to be certified, and without taking any Fee or Reward from the Suitor, or any for him for valew<g ref="char:EOLhyphen"/>ing the Lands or personall estate.</p>
+            <p n="10">10 THAT the Feodaries do name in their Certificates, the Lands in order one after another, as they lie in order in the Office, and to set downe in the one Margent of their Certificates, the valew found in the Office, and in the other Margent the im<g ref="char:EOLhyphen"/>prooued valew certified to the Officers, and the same valuations to bee distributed according to the estates found in the Of<g ref="char:EOLhyphen"/>fice.</p>
+            <p n="11">11 THAT the Feodarie do certifie all Coppiehold Leases, valew of woods, or other personal estate that commeth to the Ward, or any immediate possibility of any estate of Lands, whereby his marriage may be improued.</p>
+            <p n="12">12 THAT the Feodary shal not mention in his Certificate, any thing omitted out of the Office against the King, to abate the Composition, but shall leaue the same to
+<pb n="11" facs="tcp:20901:7"/> be alledged by the Suitor to be allowed (if cause be) vpon proofe to bee made therof by them at the Composition.</p>
+            <p n="13">13 THAT the Eschetour and Feoda<g ref="char:EOLhyphen"/>ry and Commissioners shall prouide, that Offices be not confusedly found, by ioy<g ref="char:EOLhyphen"/>ning diuerse Mannours and Lands in one grosse value together.</p>
+            <p n="14">14 THAT the Certificates of the Feo<g ref="char:EOLhyphen"/>daries be deliuered by the first sitting of the Officers in euery Terme, to the Clerke of the Court, close sealed vp, and so to remaine with the Clerke vnopened, vntill the next sitting of the Master and Counsaile after the receipt there<g ref="char:EOLhyphen"/>of; and then to be opened, to the end the Master and Counsell may informe them<g ref="char:EOLhyphen"/>selues of the true estate of the Ward, a<g ref="char:EOLhyphen"/>gainst the time of Composition; And if it be deliuered by the hands of a stranger, then he to deliuer it vpon oath, accor<g ref="char:EOLhyphen"/>ding to the vsuall course of the Court in like cases.</p>
+            <p n="15">15 THAT the Feodaries doe find Of<g ref="char:EOLhyphen"/>fices at the best value that may appeare vp<g ref="char:EOLhyphen"/>on
+<pb n="12" facs="tcp:20901:8"/> search of ancient Offices, or other Re<g ref="char:EOLhyphen"/>cords; if there bee no Records, then to bee found by the Iury, according to Eui<g ref="char:EOLhyphen"/>dence to be giuen, and in case of surueyes, that they doe not certifie any value lesse then appeares, by any Record, Sithence the erection of the Court without men<g ref="char:EOLhyphen"/>tioning the cause of abatement, leauing the proofe thereof to bee determined by the Court.</p>
+            <p n="16">16 THAT no Office bee found with<g ref="char:EOLhyphen"/>in the yeere after the death of the Ance<g ref="char:EOLhyphen"/>stor against Vs, or a meane Tenure of Vs (not being Knights seruice) for any Ward within age, vntill the Feodary or Eschea<g ref="char:EOLhyphen"/>tor doe first acquaint the Court for fur<g ref="char:EOLhyphen"/>ther directions therein, which the Feoda<g ref="char:EOLhyphen"/>ry is inioyned to doe with all conuenient expedition.</p>
+            <p n="17">17 THAT euery Feodary and Eschea<g ref="char:EOLhyphen"/>tor, before the third Returne of euery Terme, shall certifie into the Court, a note of all Offices found in the vacation next before, and whether a Tenure bee found for Vs in <hi>Capite,</hi> or by Knights seruice, and
+<pb n="13" facs="tcp:20901:8"/> the names of the Ancestor and Heire, and his age; and the Clerke of the Court shall certifie the same to the Auditours, before the beginning of the next Terme follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="18">18 THAT the Clerks of the Petty Bagge, doe file and transcribe all Offices that bee brought to them, and not to reiect or suppresse the same, and the like course to bee vsed in the Exchequer with Of<g ref="char:EOLhyphen"/>fices that bee returned into the Exche<g ref="char:EOLhyphen"/>quer; and that all due Fees be foorthwith discharged and payd vnto the Clerks and Officers of the said Courts: And if any person shall neglect or deny to pay any such due Fees, then vpon the petition of the said Clerke to the Court of Wards, or<g ref="char:EOLhyphen"/>der shall be taken for their satisfaction.</p>
+            <p n="19">19 THAT no Escheatour shall inforce any man to shew his Euidence vnto him<g ref="char:EOLhyphen"/>selfe, ne<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther shall hee haue any power to discharge the Subiects from finding their Offices.</p>
+            <p n="20">20 THAT all Sales and Compositi<g ref="char:EOLhyphen"/>ons for Wardships of the Bodies, and
+<pb n="14" facs="tcp:20901:9"/> Leases of Lands, (except the cases for Concealements) and all commitments of Ideots, and custody of their estates bee made by the Master and Councell of the same Court, openly in the Councell Chamber of the Court of Wardes, and by such persons as are authorised by Sta<g ref="char:EOLhyphen"/>tute in that behalfe. Neuerthelesse, the Surueyor of the Liueries, the Atturney of the Wards, Receiuer and Auditors, or any fowre of them, without the Master, may treat with any to bring the sayd Ward<g ref="char:EOLhyphen"/>ships, and the Leases, and the Commit<g ref="char:EOLhyphen"/>ments of Ideots to a price, openly in the Councel Chamber of the Court of Wards, and acquaint the Master therewith; in whose power it shall be to allow or dis<g ref="char:EOLhyphen"/>allow of the same, according to the sayd Statute.</p>
+            <p n="21">21 THAT Leases of Wardes Lands (except the cases of Concealements) bee made with little or no fine, and for the best improoued yeerely rent that shall be offered, consideration being had of all due cautions, as aforesayd.</p>
+            <p n="22">
+               <pb n="15" facs="tcp:20901:9"/> 22 THAT fellable Woods, and Fines of Copy-holds of inheritance, be also rea<g ref="char:EOLhyphen"/>sonably valued and demised with the Land, for the best yeerly Rent, as aforesaid, with prouision for fellable Woods, that the Lessees fell them by fit portions.</p>
+            <p n="23">23 THAT Fines of Copieholds for liues be made and raised to Our vse, when, and as often as the Court shall thinke good, by certaine particular Commissio<g ref="char:EOLhyphen"/>ners, to be appointed by the Master and Councell of Our said Court; which com<g ref="char:EOLhyphen"/>missioners shall bee charged to make the best of such Copieholds to bee granted, and truly to answer vnto vs into Our re<g ref="char:EOLhyphen"/>ceipt of Our sayd Court, all such summes, without fraud or couin, as by them shall haue beene receiued, due consideration being had of their paines and expences, or else the same to be compounded for at the Councell chamber of the Court of Wards, as in other cases of compositions.</p>
+            <p n="24">24 THAT the rated sum agreed vp<g ref="char:EOLhyphen"/>on by the Commissioners for the compo<g ref="char:EOLhyphen"/>sition of any Ward or Lease, doe stand, and
+<pb n="16" facs="tcp:20901:10"/> not be abated in the composition, neither in the Fine nor Rent.</p>
+            <p n="25">25 THAT no Wardships of the Bo<g ref="char:EOLhyphen"/>dy or Land (except the cases of conceale<g ref="char:EOLhyphen"/>ments) shall bee giuen or granted to any person, or at his suite, by way of reward or benefit, but the best price and value that shall be offered, shall be taken to Our vse, So alwayes as the neerest and trustiest Friends, or the persons nominated by the Ancestor (they seeking the same in time conuenient, as aforesayd, and making fit offer for it) be preferred, and considerati<g ref="char:EOLhyphen"/>on had of the Wardes estate, and of all due circumstances considerable in such cases.</p>
+            <p n="26">26 THAT no mitigation of any mean rates, valewes and forfeitures of mariage, Fines, bonds, debts or charges be dischar<g ref="char:EOLhyphen"/>ged or abated, but by the Master and Councell openly at their seuerall sittings.</p>
+            <p n="27">27 THAT not only euery Commit<g ref="char:EOLhyphen"/>tee and Lessee, but euery Assignee of eue<g ref="char:EOLhyphen"/>ry Committee or Lessee (except the Cases of Concealements) shall take the Oath,
+<pb n="17" facs="tcp:20901:10"/>
+               <hi>viz.</hi> &amp;c. And for that purpose euery Committee, Lessee, and Assignee, shall bee sworne whether hee taketh it to his owne vse, or to the vse of any other, to the end they may both take the oath.</p>
+            <p n="28">28 AND furthermore, We doe heer<g ref="char:EOLhyphen"/>by require and authorise you, that you giue order, that euery person that shall prosecute such composition for the cu<g ref="char:EOLhyphen"/>stody of a Ward, Ideot, or Lunatique, or lease of their Land, or other estate (except the case of concealements) shall before a<g ref="char:EOLhyphen"/>ny grant of the body, or l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ase of the Land, bee deliuered vnto him vnder the Seale of Our said Court, take his corporall oath in open Court, or by Commission (if the case shall so require) before three Commissioners, at the least (whereof one to be a Iustice of the Peace, to be certified and returned into the Court, before the deliuery of such grant or Lease) in maner and forme following, viz.</p>
+            <p n="29">
+               <pb n="18" facs="tcp:20901:11"/> 29 <hi>J, A. B doe sweare, That nei<g ref="char:EOLhyphen"/>ther I, nor any other to my know<g ref="char:EOLhyphen"/>ledge, haue, or hath giuen, or promi<g ref="char:EOLhyphen"/>sed, procured or consented to giue, or to be giuen, any gift or reward, direct<g ref="char:EOLhyphen"/>ly or indirectly, vnto any Officer or Officers of the Court of Wards and Liueries, or to any other person or persons whatsoeuer, for procuring any preferment to compound before an other, or for mitigation in the price or payment in any Composition or Contract made, or to bee made for the Wardship of the body of</hi> IS <hi>his Maiesties Ward, and the Lease of any the sayd Wards Lands, or for the signing or dispathing of any Grants of them, or any of them, or for the mitigation of the yeerely va<g ref="char:EOLhyphen"/>lue of any of the Lands of the sayd</hi>
+               <pb n="19" facs="tcp:20901:11"/>
+               <hi>Ward (ordinary Fees onely excep<g ref="char:EOLhyphen"/>ted,) And that I will not giue, nor a<g ref="char:EOLhyphen"/>ny with my consent shall giue, or con<g ref="char:EOLhyphen"/>sent to bee giuen any gift or reward, directly or indirectly for the causes aforesayd, or any of them; And I doe take the sayd Wardship to the vse of the sayd Ward, and the sayd Lease to the vse of</hi> A. B. <hi>and not in trust for, or to the vse of any other person or persons whatsoeuer: So helpe me God.</hi>
+            </p>
+            <p n="30">30 THAT especiall choice be made of the Commissioners that receiue the oath in the Countrey, so that the oath may be truly and fully taken by the Committees, Lessees and Assignees, and the parties committing trust to any other.</p>
+            <p n="31">31 THAT the Oath bee taken by those that are Committees or Lessees vp<g ref="char:EOLhyphen"/>on neglect <hi>in haec verba.</hi>
+            </p>
+            <p n="32">
+               <pb n="20" facs="tcp:20901:12"/> 32 <hi>J</hi> A. B. <hi>doe sweare, that nei<g ref="char:EOLhyphen"/>ther J, nor any other to my know<g ref="char:EOLhyphen"/>ledge, or as I beleeue, or haue heard, haue, or hath taken any course, or v<g ref="char:EOLhyphen"/>sed any practise or combination di<g ref="char:EOLhyphen"/>rectly or indirectly, by my selfe or by an other, with any person or persons whatsoeuer, to stay or hinder the prosecution of, and for the Composi<g ref="char:EOLhyphen"/>tion for the Wardship of the body of</hi> B. C. <hi>or the Lease of any the said Wards Lands, with any purpose or intent whatsoeuer, that the sayde Wardship and Lease, or either of them, by such negect or default of prosecution, might come to me, or to any other to my vse, or by my meanes or procurement, or to my knowledge; So helpe me God.</hi>
+            </p>
+            <p n="33">
+               <pb n="21" facs="tcp:20901:12"/> 33 THAT no Recusant bee admit<g ref="char:EOLhyphen"/>ted to compound, or be Assignee of any Ward of body or lands or of Ideots.</p>
+            <p n="34">34 THAT all rents of Wards lands be reserued to bee payd either to the Re<g ref="char:EOLhyphen"/>ceiuer of the Court of Wards and Liue<g ref="char:EOLhyphen"/>ries, or to the seuerall Feodaries of the se<g ref="char:EOLhyphen"/>uerall Counties where the Lands doe lie, according as the Master in his wisedome and discretion shall thinke fit.</p>
+            <p n="35">35 THAT all tenders and continu<g ref="char:EOLhyphen"/>ances bee first made with the Master of the Wards and Liueries, and after with the Surueyour of the Liueries, and that no improouement of fee be taken by either of them, but the ancient fee for the sayd tenders.</p>
+            <p n="36">36 THAT the Feodaries shall make Surueyes vpon Liueries, in cases of full age, aswell as in cases within age, and both according to the reasonable value, hauing respect to the improoued value; and that the value so certified by Suruey shalbe considered of openly at the Coun<g ref="char:EOLhyphen"/>sell Table of the Court of Wardes and
+<pb n="22" facs="tcp:20901:13"/> Liueries by the Master and Counsell at their sittings, before the Liuerie shall; and in no case to certifie vnder the value, that shall appeare vpon any Record.</p>
+            <p n="37">37 BVT touching Lunatikes, let no composition be taken for the committing of them or their estates; but let such care be had therein, as that they may be freely committed to their best and neerest friends, that can receiue no benefit by their death, and the Committees bound to answere, not onely the values found by Office, but the very iust value of their e<g ref="char:EOLhyphen"/>states vpon accompts, for the benefit of such Lunatique, (if hee recouer) or of his next Heire, Executors or Administrators (due regard being had to the paines and charges of such Committees, in keeping, maintaining, gouerning, and curing of the said distracted persons.)</p>
+            <p n="38">38 THAT the Petitions or demands for any allowance from Vs exhibited by the Feodaries, or any other, for any ser<g ref="char:EOLhyphen"/>uice or disbursements shall be examined or allowed by the Master of the Wardes
+<pb n="23" facs="tcp:20901:13"/> alone, as anciently was vsed.</p>
+            <p n="39">39 THAT the Receiuers account be taken and declared euery yeere, according to the Statute of 32. <hi>Henr. Octaui,</hi> before the Master of the Wards, Attourney, or one or both of the Auditors; and after the determination of the sayd accompt, the Master, Attourney, and the Auditor, or Auditors, shall all of them set their hands to the Receiuers booke of Accompts, which is and shall bee for the Receiuers charge and discharge, as the case shall re<g ref="char:EOLhyphen"/>quire.</p>
+            <p n="40">40 THAT the Auditors doe ingrosse into parchment al the Receiuers accounts, according to the expresse time and directi<g ref="char:EOLhyphen"/>on of the Statute of 32. <hi>Henrici Octaui,</hi> and doe yeerely certifie and returne the same ingrossed, with all the Warrants, Acquittances &amp; Debēturs into the Trea<g ref="char:EOLhyphen"/>sury of the Court of Wards, there to re<g ref="char:EOLhyphen"/>maine as the Records of the Court, accor<g ref="char:EOLhyphen"/>ding to the Statute, and the ancient course of the Court.</p>
+            <p n="41">41 THAT all the accompts of the Feo<g ref="char:EOLhyphen"/>daries
+<pb n="24" facs="tcp:20901:14"/> be declared and certified euery <hi>Hil<g ref="char:EOLhyphen"/>lary</hi> Terme, to the Master and Councell of the Wards, openly at the Counsell Ta<g ref="char:EOLhyphen"/>ble, that the Court may know how the remaines vpon their accompts be satisfied and paied, and their accompts to be accor<g ref="char:EOLhyphen"/>dingly returned into the Court, there to remaine.</p>
+            <p n="42">42 AND because Our purpose in this course, which now is taken, is to raise (with as little grieuance as may be to our louing Subiects) that reasonable benefit which ought to come vnto Vs, by the Marriages of Our Wards, and by their Leases of their Lands, whereof a great part hath been di<g ref="char:EOLhyphen"/>uerted by Grants to Committees, and o<g ref="char:EOLhyphen"/>therwise; Wee doe hereby declare, that it is not Our meaning to change the course that hath beene formerly held and vsed in finding Offices, nor to presse the raising or improouing of any values or Rates in any Inquisitions, other then as aforesaid: Neither will Wee haue the Rents, which shall be reserued vpon such Leases, or any such Certificates, Informations or Instru<g ref="char:EOLhyphen"/>ctions,
+<pb n="25" facs="tcp:20901:14"/> as shall by any meanes be giuen or appeare of the values of such Wardes Lands or estates, to bee transcribed, or transmitted to any other Court, Office, place or person; or admitted or vsed as President, euidence or inducement, to charge Our Subiects in any other pay<g ref="char:EOLhyphen"/>ments now, or hereafter answerable vnto Vs, Our Heires or Successours.</p>
+            <p n="43">43 NEVERTHELES, Wee are well pleased and contented, that if any Wardship, Lease of Lands, Meane rates, be<g ref="char:EOLhyphen"/>fore or after full age, now bee, or hereafter shall be concealed from Vs, and no Suite shall be made within one yeere next after Our Tenants death, for such Wardship or Lease, that in such case the Master of Our Court of Wards, may admit any fit person whatsoeuer, that shall make offer to dis<g ref="char:EOLhyphen"/>couer Our right so concealed, or fought to be concealed &amp; suppressed, vpon good matter or proofe, shewed for Vs, and ap<g ref="char:EOLhyphen"/>prooued by the said Master, to prosecute the finding of an Office, and to passe the said Wardship, Lease or Meane rates,
+<pb n="26" facs="tcp:20901:15"/> without restraining or binding the saide Master, or the party prosecuting, accor<g ref="char:EOLhyphen"/>ding to the Directions aboue mentioned, but that the Master may according to the parties trauaile, expenses, aduenture and seruice done vnto Vs, reward him, by granting such Wardship, Lease, or Meane rates, in such sort, as others may be encou<g ref="char:EOLhyphen"/>raged to employ themselues in the like ser<g ref="char:EOLhyphen"/>uice; And all deuices and practises to de<g ref="char:EOLhyphen"/>ceiue and defraud Vs of Our due and iust Right, be better preuented; Any thing in these Our Instructions or Directions to the contrary notwithstanding.</p>
+            <p n="44">44 PROVIDED alwayes, and Wee doe hereby declare it to bee Our will and pleasure, that where it shall appeare to you, that neither Wee nor Our Progeni<g ref="char:EOLhyphen"/>tours haue enioyed any benefit by Ward<g ref="char:EOLhyphen"/>ship, Liuery, Primer seizin, Reliefe, Re<g ref="char:EOLhyphen"/>spect of Homage, Fines, or Meane rates of any Lands, within the space of three<g ref="char:EOLhyphen"/>score yeeres last past, where such benefit ought to haue come to the Crowne, if such Tenure had beene acknowledged:
+<pb n="27" facs="tcp:20901:15"/> In such Cases We are pleased to giue pow<g ref="char:EOLhyphen"/>er and authority to you Our Master and Councell of Our Court, openly in the Councell-chamber, as aforesaid, to remitt and release all such benefit and profit, as haue or ought to haue accrued vnto Vs, or to Our Progenitours, by reason of any such Tenure, allowing to such persons as haue prosecuted in Our behalfe, such part thereof as shall seeme good in your dis<g ref="char:EOLhyphen"/>cretion, Sauing to Vs, Our Heires and Successours, the right and inheritance of Our Tenures; And sauing Our Prero<g ref="char:EOLhyphen"/>gatiue, and benefit, and profit of such Tenures of Vs, or Our Progenitors, as doe expresly appeare by matter of Re<g ref="char:EOLhyphen"/>cord; And also such as haue beene crea<g ref="char:EOLhyphen"/>ted, or otherwise come vnto Vs within the same time of threescore yeeres.</p>
+            <p n="45">45 AND where Wee are informed by you the Master of Our said Court, that the bonds for the performance of Coue<g ref="char:EOLhyphen"/>nants, made as well vnto Vs vpon the grants of Wards, Ideots and Lunatiques, and their estates, as vnto the Wards, Ideots
+<pb n="28" facs="tcp:20901:16"/> and Lunatikes themselues, do remaine in Our said Court of Wards and Liueries, &amp; haue not at any time heretofore been de<g ref="char:EOLhyphen"/>liuered vp vnto the said grātees, notwith<g ref="char:EOLhyphen"/>stāding they haue truely performed their Couenants, which is a great discourage<g ref="char:EOLhyphen"/>ment to men of sufficiencie to become Grantees in such cases, when as their e<g ref="char:EOLhyphen"/>states shall become so perpetually char<g ref="char:EOLhyphen"/>ged: Wee therefore in Our Princely care of such our louing subiects as haue beene heretofore so bound, or that hereafter shall become boūd in any such bonds, are well pleased and contented, that you the sayd Master and Counsell of the sayd Court, for the time being, shall giue dire<g ref="char:EOLhyphen"/>ction at all times heereafter vpon the de<g ref="char:EOLhyphen"/>sire of such Grantees, their Heires Execu<g ref="char:EOLhyphen"/>tors Administrators or assignes, to deliuer vp all such bonds to bee cancelled, vnlesse within two yeeres after the estates of such Grantees ended, there shall appeare vnto you the said Master and Counsell of the said Court, that there is good cause to detaine the said bonds.</p>
+            <p n="46">
+               <pb n="29" facs="tcp:20901:16"/> 46 And also that the Master of the VVards, Surueyour, Atturney, Receiuer, Auditours, Clerke of the Court, and his Deputy, Clerke of the Liueries and his Deputy, and all the Feodaries and the Ma<g ref="char:EOLhyphen"/>sters Secretary, and all other Officers and persons employed in his Maiesties Reue<g ref="char:EOLhyphen"/>nue of the VVards, shall take an expresse oath openly in the Counsell chamber of the Court of VVards, in manner and forme following.</p>
+            <p n="47">47 <hi>I,</hi> A. B. <hi>do sweare, that neither J, nor any other person for me, by my appointment, knowledge or consent, shall take or receive of any person, a<g ref="char:EOLhyphen"/>ny gift or reward directly or indi<g ref="char:EOLhyphen"/>rectly, for any Composition or prefer<g ref="char:EOLhyphen"/>ment, or causing any person or per<g ref="char:EOLhyphen"/>sons to be preferred to compound be<g ref="char:EOLhyphen"/>fore another, or to haue any mitigati<g ref="char:EOLhyphen"/>on in the price, or payment in any</hi>
+               <pb n="30" facs="tcp:20901:17"/>
+               <hi>composition or contract, at any time heereafter to be made for the Ward<g ref="char:EOLhyphen"/>ship of the body, or lease of the lands of any his Maiesties Wards, or for the custody of any his Maiesties Ideots, or lunatickes, or their lands, Goods or Chattels, or for the signing or dispatching of any Warrant for any Graunt of them, or any of them, excepting ordinary Fees; So helpe me God.</hi>
+            </p>
+            <p n="48">48 THAT the Clerke of the Wards, and of the Liueries, mention the date of all fines rated, and the times of payments, and deliuer the bonds to the Receiuer, and make a Certificate of the sayd fines, times of payment and bonds, with the parties bound, and their dwellings, to the Audi<g ref="char:EOLhyphen"/>tours, within twenty dayes after the end of euery Tearme, and certifie them also what is to be paid in hand without bond,
+<pb n="31" facs="tcp:20901:17"/> and also certifie the Rent reserued vpon e<g ref="char:EOLhyphen"/>uery Lease.</p>
+            <p n="49">49 THAT opposals of Sheriffes bee effectually performed euery Tearme, and that immediately after the opposals they pay in the money that they haue colle<g ref="char:EOLhyphen"/>cted, or shall bee imposed vpon them by the Court vpon their opposals.</p>
+            <p n="50">50 THAT the Clerke of the VVardes doe certifie the Auditours all Fines and amerciaments, imposed vpon any Sheriffs, or others, within twenty dayes after the end of euery Tearme.</p>
+            <p n="51">51 AND now that VVe haue so suffici<g ref="char:EOLhyphen"/>ently directed you, as Wee make little doubt but you will bee carefull of Our profit in the execution of your places; So neuerthelesse, VVee let you know heere<g ref="char:EOLhyphen"/>by, that seeing Our owne iudgement tels Vs, that there may fall into your conside<g ref="char:EOLhyphen"/>rations many circumstances, which must guide you in assessing the Fines for the marriages of Our VVards, and Renting of their Lands; some arising either out of the broken estate of the deceased, want of
+<pb n="32" facs="tcp:20901:18"/> prouision for his VVife, his great charge of children vnprouided for, infirmity or tendernesse of the Heire, vncertainty of the Title, or greatnesse of incumbrance vpon the Lands, so as some Heire, that may in respect of his degree, bloud, or li<g ref="char:EOLhyphen"/>uing, in opinion of the world bee iudged to deserue a greater Rent or Fine, then some other persons more obscure may, yet in regard of the causes aboue mentio<g ref="char:EOLhyphen"/>ned, or some other of like sort, lesse fit to haue any greater charge layd vpon him: VVe doe therefore, notwithstanding any thing contayned in these Our Instructi<g ref="char:EOLhyphen"/>ons, giue you full liberty, that as these, or any other the like considerations, shall of<g ref="char:EOLhyphen"/>fer themselues vnto you, you may vse that good discretion and conscience which is fit, openly in the Counsell cham<g ref="char:EOLhyphen"/>ber, as aforesaid, in mitigating or abating the Fines or Rents vpon the sayd Graunts or Leases, to the reliefe of such necessities; So alwayes as care bee taken, that by any such pretenses, that profit which should accrue vnto Vs, be not diuerted to any o<g ref="char:EOLhyphen"/>thers,
+<pb n="33" facs="tcp:20901:18"/> that shall seeke to drawe to them<g ref="char:EOLhyphen"/>selues a priuate benefit out of this Our gracious care and consideration. And Our will and pleasure is, and Wee doe heereby direct and authorise you the Ma<g ref="char:EOLhyphen"/>ster and Counsell of the sayd Court, and Master and Counsell of the same for the time being, that with aduice of Our Iudges, Assistants of Our sayd Court, you diligently examine, search out, and reforme all fraudulent deuices and pra<g ref="char:EOLhyphen"/>ctises, deuised or to bee deuised and put in vse, to deceiue and defeate Vs of Our wardships, or Leases, of Our Wards lands, or of any due or iust benefit belonging to Vs, by reason of Our Tenures.</p>
+            <p>In witnesse whereof, VVee haue caused these Our Letters to be made Patents.</p>
+            <closer>
+               <dateline>Witnesse Our selfe at VVest<g ref="char:EOLhyphen"/>minster
+<pb n="34" facs="tcp:20901:19"/>
+                  <date>the one and twentieth day of August, in the twentieth yeere of Our Reigne of Eng<g ref="char:EOLhyphen"/>land, France, and Ireland, and of Scotland the sixe and fiftieth.</date>
+               </dateline> Per Breue de priuato Sigillo.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, ¶ Printed by BONHAM NORTON and IOHN BILL, Printers to the Kings most Excellent Maiesty. <hi>M. DC. XXII.</hi>
+            </p>
+            <pb facs="tcp:20901:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
